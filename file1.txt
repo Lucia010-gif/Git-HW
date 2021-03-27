@@ -1,4 +1,7 @@
 This is a new file
 
 This is my first change.
-This is file 1.2..
+This is file 1.2
+
+Change in commits.
+This is file 1.3.
