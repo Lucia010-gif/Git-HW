@@ -1,0 +1,4 @@
+This is a new file
+
+This is my first change.
+This is file 1.2..
